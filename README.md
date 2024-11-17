@@ -1,3 +1,86 @@
-#🤖 𝗔𝗦𝗛-𝗠𝗗-𝗩➊💗 COMING SOON
+<div align="center">
+	<h3>⚜️ *ᴋɪɴɢ ᴀꜱʜ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ* ⚜️</h3>
+<img src="https://i.ibb.co/MVC6R4P/IMG-20241103-WA0256.jpg" width="300" height="190">
+</div>
+<hr>
+<img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+Ash+MD...;Created+by+King+Loku+Ash...;World+Best+Whatsapp+User+Bot...;Simple+Java+Script+Bot...;Simple+And+Fast+Deploy...;Thank+You+For+Using+Ash+Md..."
+            alt="Typing">
 
-#https://ash-md-pair.onrender.com/pair#
+<div align="center">
+	<img src="https://moe-counter.glitch.me/get/@Anya_v2-Md?theme=gelbooru" width="300" height="150" alt="sadeesha">
+</div>
+
+<hr>
+
+		
+       
+<h3>⚜️ How To Deploy </h3>
+
+<h5>⚜️ First tap to Fork button and create new fork</h5>
+
+
+
+<hr>
+	
+<h3>⚜️ Get Your SESSION ID 👇</h3> 
+<h5>⚜️ SESSION_ID Error Fixed ✅</h5>
+	
+<button><tr><a href="https://ash-md-pair.onrender.com/pair/">👨‍💻⚜️ SESSION_ID</a></tr></button>
+
+<h5>⚜️ Now get your inbox and copy sessino id</h5>
+<h5>⚜️ If you past session id in (config.js/SESSION_ID || "past_copy_text")</h5>
+
+<h3>⚜️ Ash Md Supported Group link </h3>
+<a href="https://chat.whatsapp.com/Ksu5Sr4TAqnHcEU8afFB6o">Join Ash Md suported 👧</a>
+<hr>
+<h3>⚜️ Ash Md updates chanels </h3>
+<a href="https://whatsapp.com/channel/0029VapKsJeKmCPQ53eTsF1E">Join Ash Md updates chanel 👧</a>
+<hr>
+
+***CLICK THE BUTTON BELOW TO DEPLOY 🙈🌸***
+
+ <details close>
+<summary>⚜✅ DEPLOY IN PLATFORM 🖐️</summary>
+1.  #### DEPLOY IN HEROKU 
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=new)
+
+--------
+2.  #### DEPLOY IN REPLIT
+
+   <a href='https://repl.it/github/GlobalTechInfo/SUHAIL-XMD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
+
+--------
+3.  #### DEPLOY IN KOYEB
+
+<a href='https://app.koyeb.com/auth/signin' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-KOYEB-blue?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
+
+--------
+4.  #### DEPLOY IN GLITCH
+
+<a href='https://glitch.com/signup' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/GLITCH-h?color=pink&style=for-the-badge&logo=glitch'/></a></p>
+
+--------
+
+5.  #### DEPLOY TO CODESPACE
+
+<a href='https://github.com/codespaces/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/CODESPACE-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
+
+--------
+
+6. #### DEPLOY TO RENDER
+
+<a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RENDER-h?color=maroon&style=for-the-badge&logo=render'/></a></p>
+
+--------
+7. #### DEPLOY TO RAILWAY
+
+<a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RAILWAY-h?color=black&style=for-the-badge&logo=railway'/></a></p>
+
+--------
+</details>
+<details close>
+<summary>⚜✅ DEPLOY IN FREE ⚜🖐️</summary>
+<h5>⚜️ Deploy Free Koyeb👇</h5>
+<a href="http://koyeb.com" >
+<h5>⚜️ bot deployind the free using this workflows code 👇</h5>

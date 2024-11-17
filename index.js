@@ -29,7 +29,7 @@ const filer = File.fromURL(`https://mega.nz/file/${sessdata}`)
 filer.download((err, data) => {
 if(err) throw err
 fs.writeFile(__dirname + '/auth_info_baileys/creds.json', data, () => {
-console.log("Session downloaded âœ…")
+console.log("Session downloaded 🌟…")
 })})}
 
 const express = require("express");
@@ -69,7 +69,7 @@ require("./plugins/" + plugin);
 console.log('Plugins installed ✅…')
 console.log('Ash Md V1 Bot Connected 🦋🌸…')
 
-  let up = `ASH-MD_V1 connected successful ✅…\n\nPREFIX: ${prefix}`;
+  let up = `🤖 𝗔𝗦𝗛-𝗠𝗗-𝗩➊💗 𝗖𝗼𝗻𝗻𝗲𝗰𝘁𝗲𝗱 𝗦𝘂𝗰𝗲𝘀𝘀𝗳𝘂𝗹𝗹 ✅…\n\nPREFIX: ${prefix}`;
 
 conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://i.ibb.co/MVC6R4P/IMG-20241103-WA0256.jpg` }, caption: up })
 

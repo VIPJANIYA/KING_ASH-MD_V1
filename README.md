@@ -1,5 +1,5 @@
 <div align="center">
-	<h3>⚜️ *ᴋɪɴɢ ᴀꜱʜ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ* ⚜️</h3>
+	<h3>⚜️ ᴋɪɴɢ ᴀꜱʜ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ⚜️</h3>
 <img src="https://i.ibb.co/MVC6R4P/IMG-20241103-WA0256.jpg" width="300" height="190">
 </div>
 <hr>
@@ -25,7 +25,7 @@
 <h3>⚜️ Get Your SESSION ID 👇</h3> 
 <h5>⚜️ SESSION_ID Error Fixed ✅</h5>
 	
-<button><tr><a href="https://ash-md-pair.onrender.com/pair/">👨‍💻⚜️ SESSION_ID</a></tr></button>
+<button><tr><a href="https://ash-md-pair.onrender.com/pair/">👨‍💻⚜️ PAIR_CODE</a></tr></button>
 
 <h5>⚜️ Now get your inbox and copy sessino id</h5>
 <h5>⚜️ If you past session id in (config.js/SESSION_ID || "past_copy_text")</h5>
